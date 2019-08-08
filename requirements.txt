@@ -1,17 +1,9 @@
-import discord.py==0.16.12
-import asyncio
-import random
-import openpyxl
-from discord import Member
-from discord.ext import commands
-import youtube_dl
-from urllib.request import urlopen, Request
+discord.py==0.16.12
+asyncio
+openpyxl
+youtube_dl
 import urllib
 import urllib.request
-import bs4
-import os
-import sys
-import json
-from selenium import webdriver
-import time
-import datetime
+bs4
+
+
