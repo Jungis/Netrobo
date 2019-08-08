@@ -5,5 +5,4 @@ youtube_dl
 urllib
 urllib.request
 bs4
-pip
 
