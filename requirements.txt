@@ -2,8 +2,8 @@ discord.py==0.16.12
 asyncio
 openpyxl
 youtube_dl
-import urllib
-import urllib.request
+urllib
+urllib.request
 bs4
-
+pip
 
